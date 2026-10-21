@@ -1,4 +1,8 @@
 ## Hi there 👋
+Im legarelle a software developer student based in Malaysia.
+
+I build and design whatever i feel like doing.
+
 
 <!--
 **legarelle/legarelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
